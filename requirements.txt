@@ -1,0 +1,27 @@
+# Core data handling and ML
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.2.0
+
+# Deep Learning
+torch>=2.0.0
+transformers>=4.30.0
+
+# NLP Tools
+nltk>=3.8.1
+
+# API & Backend
+fastapi>=0.100.0
+uvicorn>=0.22.0
+pydantic>=2.0.0
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.6
+
+# MLOps & Explainability
+mlflow>=2.5.0
+shap>=0.42.0
+
+# Testing & Dev
+pytest>=7.0.0
+black>=23.0.0
+python-dotenv>=1.0.0
